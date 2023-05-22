@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Appwrite**
 
-- 👯 I’m looking to collaborate on **a product at an early stage**
+- 🤝 I’m looking to collaborate on **a product at an early stage**
 
 - 💬 Ask me about **API development and Salesforce integrations with third-parties**
 
