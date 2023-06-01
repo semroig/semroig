@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sem</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Hashnode + Appwrite Hackathon](https://hashnode.com/hackathons/appwrite)
+- 🔭 I’m currently working on [Hashnode + Appwrite Hackathon](https://hashnode.com/hackathons/appwrite) developing [Gifting](https://github.com/semroig/gifting).
 
-- 🌱 I’m currently learning **Appwrite + React**
+- 🌱 I’m currently learning **Appwrite + React**.
 
-- 🤝 I’m looking to collaborate on **a product at an early stage**
+- 🤝 I’m looking to collaborate on **a product at an early stage**.
 
-- 💬 Ask me about **API development and Salesforce integrations with third-parties**
+- 💬 Ask me about **API development and Salesforce integrations with third-parties**.
 
 <p align="left">
 </p>
