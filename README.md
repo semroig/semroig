@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hashnode + Appwrite Hackathon](https://hashnode.com/hackathons/appwrite)
 
-- 🌱 I’m currently learning **Appwrite**
+- 🌱 I’m currently learning **Appwrite + React**
 
 - 🤝 I’m looking to collaborate on **a product at an early stage**
 
