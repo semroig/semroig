@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sem</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Hashnode + Appwrite Hackathon](https://hashnode.com/hackathons/appwrite) developing [Gifting](https://github.com/semroig/gifting).
+- 🔭 I’m currently working on [Hashnode + Appwrite Hackathon](https://hashnode.com/hackathons/appwrite) developing [gifting](https://github.com/semroig/gifting).
 
 - 🌱 I’m currently learning **Appwrite + React**.
 
